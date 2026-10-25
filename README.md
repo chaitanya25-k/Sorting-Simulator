@@ -2,9 +2,7 @@
 
 A Java Swing application designed to benchmark, visualize, and explain how different sorting algorithms perform under various data conditions. This project simulates the stress-testing database engines use to select optimal indexing strategies based on data size and distribution.
 
-## 📸 Screenshots
 
-*(Replace the placeholder links below with the actual paths to your screenshot files once you save them to your repository)*
 
 ![Benchmarking Dashboard](link_to_dashboard_screenshot.png)
 *The Benchmarking Dashboard running 12 different scenarios across varying data distributions.*

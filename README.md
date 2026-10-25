@@ -4,7 +4,7 @@ A Java Swing application designed to benchmark, visualize, and explain how diffe
 
 
 
-![Benchmarking Dashboard](link_to_dashboard_screenshot.png)
+![Benchmarking Dashboard](Screenshot 2026-10-25 192947.png)
 *The Benchmarking Dashboard running 12 different scenarios across varying data distributions.*
 
 ![Live Visualizer](link_to_visualizer_screenshot.png)
